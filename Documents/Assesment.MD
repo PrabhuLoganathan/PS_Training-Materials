@@ -52,3 +52,21 @@ Create a **Maven-based Java project** to automate the **login functionality** of
 5. Implement a **negative test case** to handle invalid login attempts.  
 
 Your project should follow **best coding practices**, ensuring **reusability, maintainability, and scalability**.  
+
+Use any URL Of your choice 
+
+https://seleniumbase.io/simple/login
+
+
+demo_user
+
+secret_pass
+
+
+
+https://www.saucedemo.com/v1/index.html
+
+standard_user
+
+secret_sauce
+
