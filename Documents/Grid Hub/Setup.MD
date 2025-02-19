@@ -195,12 +195,3 @@ To run Selenium-Grid tests in **Jenkins**, follow these steps:
 ✔️ **Parallel execution** with **TestNG** speeds up test execution.  
 ✔️ **Jenkins integration** enables **automated execution**.  
 
----
-
-## **🚀 Next Steps**
-Would you like:
-1. **Step-by-step setup for CI/CD in Jenkins**?
-2. **More hands-on assignments for Selenium-Grid**?
-3. **Advanced Grid topics (Docker, Kubernetes, Cloud Grid Execution)?**
-
-Let me know how I can help! 😊
